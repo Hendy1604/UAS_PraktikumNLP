@@ -194,7 +194,8 @@ LangSmith
 Tambahkan screenshot Gradio di sini.
 
 ```markdown
-![Gradio UI](screenshots/gradio_ui.png)
+<img width="1918" height="1027" alt="image" src="https://github.com/user-attachments/assets/66960f95-0f43-496a-b0ec-3702cf2d19fe" />
+
 ```
 
 ---
@@ -252,12 +253,11 @@ pip install pandas
 
 Pada notebook, ganti:
 
-```python
-GROQ_API_KEY = "YOUR_GROQ_API_KEY"
-LANGSMITH_API_KEY = "YOUR_LANGSMITH_API_KEY"
+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
+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
+
 ```
 
-dengan API Key milik Anda.
 
 ---
 
