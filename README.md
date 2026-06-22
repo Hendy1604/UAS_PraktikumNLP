@@ -190,35 +190,21 @@ LangSmith
 # Screenshot
 
 ## Tampilan Gym Assistant
-
-Tambahkan screenshot Gradio di sini.
-
-```markdown
-<img width="1918" height="1027" alt="image" src="https://github.com/user-attachments/assets/66960f95-0f43-496a-b0ec-3702cf2d19fe" />
-
+<img width="1918" height="1078" alt="Screenshot 2026-06-22 173119" src="https://github.com/user-attachments/assets/00859440-ba33-4b67-b862-1ff90b1041cf" />
 ```
 
----
 
-## Workflow LangGraph
 
-Tambahkan diagram workflow LangGraph.
-
-```markdown
-![LangGraph](screenshots/langgraph_workflow.png)
 ```
 
 ---
 
 ## Monitoring LangSmith
-
-Tambahkan screenshot dashboard LangSmith.
-
-```markdown
-![LangSmith](screenshots/langsmith_trace.png)
-```
+<img width="1918" height="1078" alt="Screenshot 2026-06-22 171455" src="https://github.com/user-attachments/assets/9ca29f4c-3323-461f-a8a4-06377f7f5887" />
 
 ---
+
+
 
 # Cara Menjalankan Program
 
@@ -230,9 +216,7 @@ Tambahkan screenshot dashboard LangSmith.
 ## 3. Masukkan API Key
 masukkan API KEY nya yang berada di cell TEXT code nya
 
-## 4<img width="1918" height="1078" alt="Screenshot 2026-06-22 173119" src="https://github.com/user-attachments/assets/00859440-ba33-4b67-b862-1ff90b1041cf" />
-. Jalankan Gradio
-
+## 4. Jalankan Gradio
 Setelah notebook selesai dijalankan, Gradio akan menghasilkan URL seperti:
 
 ```text
