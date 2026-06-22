@@ -220,60 +220,18 @@ Tambahkan screenshot dashboard LangSmith.
 
 ---
 
-# 🚀 Cara Menjalankan Program
+# Cara Menjalankan Program
 
-## 1. Clone Repository
-
-```bash
-git clone https://github.com/USERNAME/UAS_PraktikumNLP.git
-```
-
-## 2. Masuk ke Folder Project
-
-```bash
-cd UAS_PraktikumNLP
-```
-
-## 3. Install Dependencies
-
-```bash
-pip install -U langchain
-pip install -U langgraph
-pip install -U langsmith
-pip install -U langchain-community
-pip install -U langchain-groq
-pip install -U langchain-huggingface
-pip install faiss-cpu
-pip install sentence-transformers
-pip install gradio
-pip install pandas
-```
-
-## 4. Masukkan API Key
-
-Pada notebook, ganti:
-
-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
-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
-
-```
+## 1. jalankan seluruh cell
 
 
----
+## 2. Masukkan dataset MegaGymDataset.csv nya
 
-## 5. Jalankan Notebook
+## 3. Masukkan API Key
+masukkan API KEY nya yang berada di cell TEXT code nya
 
-Buka:
-
-```text
-Uas_PrakNLP.ipynb
-```
-
-lalu jalankan seluruh cell secara berurutan.
-
----
-
-## 6. Jalankan Gradio
+## 4<img width="1918" height="1078" alt="Screenshot 2026-06-22 173119" src="https://github.com/user-attachments/assets/00859440-ba33-4b67-b862-1ff90b1041cf" />
+. Jalankan Gradio
 
 Setelah notebook selesai dijalankan, Gradio akan menghasilkan URL seperti:
 
