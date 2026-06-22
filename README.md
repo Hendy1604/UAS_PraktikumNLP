@@ -223,7 +223,7 @@ Buka URL tersebut untuk menggunakan Gym Assistant.
 
 ---
 
-# 📊 Implementasi Framework
+# Implementasi Framework
 
 ## LangChain
 
