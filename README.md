@@ -192,7 +192,6 @@ LangSmith
 ## Tampilan Gym Assistant
 <img width="1918" height="1078" alt="Screenshot 2026-06-22 173119" src="https://github.com/user-attachments/assets/00859440-ba33-4b67-b862-1ff90b1041cf" />
 ```
-```
 ## Monitoring LangSmith
 <img width="1918" height="1078" alt="Screenshot 2026-06-22 171455" src="https://github.com/user-attachments/assets/0f35fcc3-39a3-43d7-8b8f-328dc4c177a1" />
 
